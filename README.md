@@ -50,8 +50,7 @@
 - **Cloud Hosting**:
 
 	![Heroku](https://camo.githubusercontent.com/19764c8c39927763a01a6468b533a874ecc23d80143f9ae260eec76b696c7d82/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4865726f6b7526636f6c6f723d343330303938266c6f676f3d4865726f6b75266c6f676f436f6c6f723d464646464646266c6162656c3d)
-	![Ubuntu](https://camo.githubusercontent.com/1814dfdb62c9a3366a9946083ac0f3ed32aad98e665b287769332252d945f2f1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5562756e747526636f6c6f723d453935343230266c6f676f3d5562756e7475266c6f676f436f6c6f723d464646464646266c6162656c3d)
-![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+	![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
@@ -67,8 +66,9 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    	![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+	![Ubuntu](https://camo.githubusercontent.com/1814dfdb62c9a3366a9946083ac0f3ed32aad98e665b287769332252d945f2f1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5562756e747526636f6c6f723d453935343230266c6f676f3d5562756e7475266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 
 </p>
