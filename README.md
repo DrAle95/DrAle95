@@ -16,7 +16,7 @@
 
 <br>
 
-- A passionate Software Developer, Back-end focused
+- A passionate Software Developer, Full-Stack focused
 - Recently completed Ruby on Rails Fullstack Web Development Bootcamp
 - Currently keep learning Web Development by Self
 - Personal website [link](https://drale95.github.io/profile/)
