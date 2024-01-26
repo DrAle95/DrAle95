@@ -110,7 +110,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/alexey-l-07b64112a/" target="_blank">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="https://img.shields.io/badge/linkedin:  alexeylebedev1995-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
