@@ -17,13 +17,13 @@
 
 - A passionate Software Developer, Full-Stack focused
 - Recently completed Ruby on Rails Fullstack Web Development Bootcamp
-- Currently keep learning Web Development by Self
+- Currently keep learning Web Development by Self (GO mainly)
 - Portfolio [link](https://drale95.github.io/profile/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://pdfhost.io/v/zHR5FrV2M_CV_Alexey)
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -32,7 +32,7 @@
 
 - **Languages**:
     
-    ![Ruby](https://camo.githubusercontent.com/f1f187bd2a70eae1921f8d848c64934e5619b6c5a1ef4c1747a3af7699b3f596/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5275627926636f6c6f723d434333343244266c6f676f3d52756279266c6f676f436f6c6f723d464646464646266c6162656c3d)
+    ![Ruby]([https://camo.githubusercontent.com/f1f187bd2a70eae1921f8d848c64934e5619b6c5a1ef4c1747a3af7699b3f596/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5275627926636f6c6f723d434333343244266c6f676f3d52756279266c6f676f436f6c6f723d464646464646266c6162656c3d](https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254304/ruby-icon-md.png))
     ![Ruby on Rails](https://camo.githubusercontent.com/22ccbed4c990f13e8b570edd2ce2ed95be4e3a3d0c4286c053e2c29b48e8ac4e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d527562792b6f6e2b5261696c7326636f6c6f723d434330303030266c6f676f3d527562792b6f6e2b5261696c73266c6f676f436f6c6f723d464646464646266c6162656c3d)
     
 
