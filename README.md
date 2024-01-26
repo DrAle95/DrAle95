@@ -110,7 +110,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/alexey-l-07b64112a/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  alexey-l-07b64112a-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white):  alexey-l-07b64112a-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
