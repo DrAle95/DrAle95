@@ -30,7 +30,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languages**:<br>
     ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
     ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 	![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -69,8 +69,7 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-	![Ubuntu](https://camo.githubusercontent.com/1814dfdb62c9a3366a9946083ac0f3ed32aad98e665b287769332252d945f2f1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5562756e747526636f6c6f723d453935343230266c6f676f3d5562756e7475266c6f676f436f6c6f723d464646464646266c6162656c3d)
-
+		![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </p>
 
