@@ -18,8 +18,6 @@
 - A passionate Software Developer, Full-Stack focused
 - Recently completed Ruby on Rails Fullstack Web Development Bootcamp
 - Currently keep learning Web Development by Self (GO mainly)
-- Portfolio [link](https://drale95.github.io/profile/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://pdfhost.io/v/zHR5FrV2M_CV_Alexey)
 
 <br><br>
 
